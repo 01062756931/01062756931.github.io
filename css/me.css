@@ -73,7 +73,7 @@ video {
 	width: 1200px;
 }
 .main1_introduce .tlt {
-    font-family: 'Abel', sans-serif;
+    font-family:'Noto Sans KR', sans-serif;
 	font-size: 38px;
 	font-weight: bold;
     text-align: center;
@@ -85,7 +85,7 @@ video {
 
 /*main2*/
 .main2 {overflow: hidden;}
-.main2 h2 {font-family: 'Bree Serif', serif;font-weight:100;}
+.main2 h2 {font-family:'Noto Sans KR', sans-serif;font-weight:300;}
 .main2_profile{
 	width:1200px;
 }
@@ -169,11 +169,11 @@ video {
 .main4 h3:hover {-webkit-transform:scale(1.2,1.2); opacity:0.4; -ms-transform:scale(1,2);}
 .main4 p {width:420px;text-align:left;margin-top:50px;margin-right:50px;border-left:5px solid #e0e0e0;float: right;padding-left:30px;}
 .main4 p:hover {border-left:5px solid #ffa22a;}
+.visualcue-mousewheel {width: 44px; position: absolute; z-index: 20; bottom: -100px;right: 445px;}
 
 
 
-
-.content2 h1 {font-family: 'Bree Serif', serif;font-weight:100;font-size:50px;color: #645858;text-align: center;padding-top:60px;}
+.content2 h1 {font-family:'Noto Sans KR', sans-serif;font-weight:500;font-size:50px;color: #645858;text-align: center;padding-top:30px;}
 .content2 i {color: #645858;font-size: 38px;}
 .horizon {opacity:0;}
 
